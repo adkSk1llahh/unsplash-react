@@ -40,5 +40,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://adksk1llahh.github.io/unsplash-react/"
+  "homepage": "https://adksk1llahh.github.io/unsplash-react/",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
 }
