@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/unsplash-react/static/css/main.aec77c66.chunk.css",
+    "main.css": "/unsplash-react/static/css/main.3257a14d.chunk.css",
     "main.js": "/unsplash-react/static/js/main.e049996d.chunk.js",
     "main.js.map": "/unsplash-react/static/js/main.e049996d.chunk.js.map",
     "runtime-main.js": "/unsplash-react/static/js/runtime-main.48022c55.js",
@@ -10,13 +10,13 @@
     "static/js/3.c8e50b5f.chunk.js": "/unsplash-react/static/js/3.c8e50b5f.chunk.js",
     "static/js/3.c8e50b5f.chunk.js.map": "/unsplash-react/static/js/3.c8e50b5f.chunk.js.map",
     "index.html": "/unsplash-react/index.html",
-    "static/css/main.aec77c66.chunk.css.map": "/unsplash-react/static/css/main.aec77c66.chunk.css.map",
+    "static/css/main.3257a14d.chunk.css.map": "/unsplash-react/static/css/main.3257a14d.chunk.css.map",
     "static/js/2.ff599af0.chunk.js.LICENSE.txt": "/unsplash-react/static/js/2.ff599af0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.48022c55.js",
     "static/js/2.ff599af0.chunk.js",
-    "static/css/main.aec77c66.chunk.css",
+    "static/css/main.3257a14d.chunk.css",
     "static/js/main.e049996d.chunk.js"
   ]
 }
